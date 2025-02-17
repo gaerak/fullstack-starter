@@ -1,5 +1,6 @@
 ## Common
 pnpm
+node.js (v18+)
 
 ## Frontend
 Vite  
