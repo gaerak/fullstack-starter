@@ -1,11 +1,11 @@
 ## Common
 pnpm
-node.js (v18+)
 
 ## Frontend
 Vite  
 React  
 Typescript  
+ESLint + Prettier
 React Router  
 Tanstack Query  
 Zustand  
