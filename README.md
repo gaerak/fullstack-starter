@@ -5,7 +5,7 @@ pnpm
 Vite  
 React  
 Typescript  
-ESLint + Prettier
+ESLint + Prettier  
 React Router  
 Tanstack Query  
 Zustand  
